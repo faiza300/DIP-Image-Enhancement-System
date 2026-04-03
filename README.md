@@ -74,7 +74,7 @@ DIP-Image-Enhancement-System/
 ---
 
 ## 🔗 LinkedIn Post
-[Project Post Link — add after posting]
+https://www.linkedin.com/posts/faiza-batool-ahmed-b0b226376_github-faiza300dip-image-enhancement-system-share-7445861403044827136-EXF_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzwCLsBUmYrRvLScOup1iEcU98UFjh-UjI
 
 ---
 
