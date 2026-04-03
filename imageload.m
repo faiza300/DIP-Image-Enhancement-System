@@ -1,0 +1,11 @@
+clc; clear; close all;
+img_rgb = imread('mountain1.jpg');
+img_gray = rgb2gray(img_rgb);
+figure;
+subplot(1,2,1); imshow(img_rgb);  title('Original RGB Image');
+subplot(1,2,2); imshow(img_gray); title('Grayscale Image');
+fprintf('Resolution : %d x %d\n', size(img_gray,2), size(img_gray,1));
+fprintf('Data Type  : %s\n', class(img_gray));
+fprintf('Channels   : %d\n', size(img_rgb,3));
+fprintf('Top-left 5x5 Matrix:\n');
+disp(double(img_gray(1:5,1:5)));
